@@ -42,5 +42,20 @@ namespace Examen2Parcial
         {
 
         }
+
+        private void BtnActualizar_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnActualizarUsuario_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnEliminarUsuario_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
