@@ -18,7 +18,8 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="50"/>
         </Grid.RowDefinitions>
-        <Label Content="Nombre" Grid.Column="0" Grid.Row="0"/>
+        <Button Name="btnCrearUsuario" Content="Crear Usuario" Grid.Column="0" Grid.Row="3" Click="BtnCrearUsuario_Click"/>
+        <Button Name="btnRemoverUsuario" Content="Remover Usuario" Grid.Column="1" Grid.Row="3" Click="BtnRemoverUsuario_Click"/>
 
 
     </Grid>
